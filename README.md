@@ -2,7 +2,7 @@
 Feito em PHP, html, css e js
 
 
-### Olá eu sou GAbriel Adorno!
+### Olá eu sou Gabriel Adorno!
 <div style="display: inline_block">
 <picture>
   <source
